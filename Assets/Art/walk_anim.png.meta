@@ -611,8 +611,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 94977112b25db2b4fbcbf2c88c9b9e4c
-      internalID: -28748627
+      spriteID: 0eaa0be48bbeb194b8e649614fe40ad3
+      internalID: 1527349923
       vertices: []
       indices: 
       edges: []
@@ -631,7 +631,7 @@ TextureImporter:
     spriteCustomMetadata:
       entries:
       - key: SpriteEditor.SliceSettings
-        value: '{"sliceOnImport":false,"gridCellCount":{"x":1.0,"y":1.0},"gridSpriteSize":{"x":154.0,"y":252.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":1,"slicingType":1,"keepEmptyRects":false,"isAlternate":false}'
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":1.0,"y":1.0},"gridSpriteSize":{"x":154.0,"y":252.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":1,"keepEmptyRects":false,"isAlternate":false}'
     nameFileIdTable:
       walk_anim_0: -2382300640608542067
       walk_anim_1: -8305080432680102093
@@ -646,7 +646,7 @@ TextureImporter:
       walk_anim_18: 6647989680525400570
       walk_anim_19: 973330422
       walk_anim_2: -6789650079143907910
-      walk_anim_20: -28748627
+      walk_anim_20: 1527349923
       walk_anim_3: -6635367218629366747
       walk_anim_4: -6177256013297398847
       walk_anim_5: 5681310341390285096
